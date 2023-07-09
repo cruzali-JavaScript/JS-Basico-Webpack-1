@@ -1,0 +1,13 @@
+
+
+
+https://www.youtube.com/watch?v=DWQd9iq53Nk&ab_channel=Programaci%C3%B3nym%C3%A1s
+
+
+
+1. Instalar Node
+2. Inicializar proyecto 
+    npm init -y
+3.  Instalar webpack   
+    npm i webpack --save-dev 
+
